@@ -1,0 +1,5 @@
+print("17/09/2022")
+print("Estranha e pensativa :P")
+print("Aprender Python para fazer jogos e virar programadora")
+print("eu imagino que no futuro deve ter dado tudo certo tu avanço nos estudos provavelmente e a melhor programadora do mundo brincadeira a partes eu to feliz por agr mas eu quero mudar eu espero que tenha orgulho de mim mesma no futuro :D")
+print("o/")
